@@ -122,6 +122,8 @@ header, #links .alt {
 #links .alt{
   background: rgba(0,0,0,0.9);
   border-radius: 125px;
+  -moz-border-radius: 125px;
+  -webkit-border-radius: 125px;
   height: 145px;
   left:0;
   padding-top: 105px;
