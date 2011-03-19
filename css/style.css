@@ -177,9 +177,7 @@ header, #links .alt {
 }
 
 @media all and (orientation:landscape) {
-  #container, body {
-    width: 320px;
-  }
+
 }
 
 @media screen and (max-device-width: 480px) {
