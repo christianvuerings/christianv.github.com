@@ -117,6 +117,7 @@ header, #links .alt {
   display: block;
   height: 250px;
   position: relative;
+  text-decoration: none;
   width: 250px;
 }
 #links .alt{
